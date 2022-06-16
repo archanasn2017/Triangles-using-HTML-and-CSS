@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div{
+    margin: 10px;
+}
+.triangle1{
+    width: 0px;
+    height: 0px;
+    border: 50px solid black;
+    border-top-color:transparent;
+    border-left-color:transparent;
+}
+.triangle2{
+    width: 0px;
+    height: 0px;
+    border: 50px solid black;
+    border-top-color:transparent;
+    border-right-color:transparent;
+}
+.triangle3{
+    width: 0px;
+    height: 0px;
+    border: 50px solid black;
+    border-bottom-color:transparent;
+    border-right-color:transparent;
+}
+.triangle4{
+    width: 0px;
+    height: 0px;
+    border: 50px solid black;
+    border-bottom-color:transparent;
+    border-left-color:transparent;
+}
